@@ -66,9 +66,9 @@ agent:
   time_limit_bootstrap: False
   # logging and checkpoint
   experiment:
-    directory: "cartpole_direct"
+    directory: "tutorial_direct"
     experiment_name: ""
-    write_interval: auto
+    write_interval: 1
     checkpoint_interval: auto
 
 
